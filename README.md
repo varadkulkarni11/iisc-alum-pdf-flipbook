@@ -42,3 +42,9 @@ to define the src, open pdfjs/viewer.js and change to line 30.
 ```javascript
 var DEFAULT_URL =  "compressed.tracemonkey-pldi-09.pdf";
 ```
+
+
+References:
+
+
+The code has been taken from: https://github.com/erayakartuna/pdf-flipbook and updated according to custom requirements
